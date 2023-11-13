@@ -1,7 +1,9 @@
+# @format
+
 BasicInfo:
   FirstName: Rob
   LastName: Wolfe
-  Photo: img/avatar.png
+  Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +1 334 531 9957
@@ -15,38 +17,105 @@ BasicInfo:
 Profile: 35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence and Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Port Wallis Technologies
+    Place: Wilmington, NC
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Director, Data and Technical Services
+        Date: Dec 2022 - Nov 2023
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Leadership of consultancy that provides 'big company capabilities to SMBs.'
+          - Sales, Marketing, Client, and Staff Management
+          - Cloud Migration and Data Integration
+          - Fractional CxO services
+
+        Badges:
+          [
+            "Archi",
+            AWS (numerous),
+            Azure,
+            Confluence,
+            Excel,
+            Hive,
+            Java,
+            Jira,
+            Kafka,
+            MongoDB,
+            "MS Project",
+            PostgreSQL,
+            PowerPoint,
+            Python,
+            "SQL Server",
+            SSIS,
+            SSRS,
+            "Talend Open Studio",
+            "Visual Cobol",
+            Visio,
+          ]
+  - Employer: X by 2, LLC
+    Place: Famrington Hills, MI
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Enterprise Data Architect, Project Manager
+        Date: Jan 2018 - Dec 2023
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
+          - Leadership of overall architecture and execution from start to delivery and beyond of a project to add data lake capabilities to existing data warehousing infrastructure.
+          - Leadership of efforts to standardize development and QA methods and processes of 60+ person team providing data management services to analytics and operational business segments.
+          - Leadership of technical effort to ensure that data assets followed the California Consumer Privacy Act
+          - Leadership of efforts to roll out a Data Governance function within the company.
+          - Lead Architect for data integration with SAP ERP application
+          - Leadership of implementation teams for various M&A related data projects, all of which went to production.
+          - Architect for Collibra MDM implementation
+          - Lead Architect for data integration with SAP ERP application
+          - Member of Core management team for 150+ person project
+          - Databricks and Snowflake PoC
+          - Collibra Primary Architect
+          - DQ+ Primary Architect
+          - Primary Client - P&C Insurance Carrier
+        Badges:
+          [
+            "AWS (EC2, S3)",
+            Collibra,
+            Confluence,
+            "Cloudera Data Platform",
+            DB2,
+            "DuckCreek Policy Admin",
+            "ER/Studio",
+            Excel,
+            "Guidewire ClaimCenter",
+            Hive,
+            Java,
+            Jira,
+            Kafka,
+            MongoDB,
+            "MS Project",
+            PowerBI,
+            PowerPoint,
+            Python,
+            SAP,
+            Spark,
+            "SQL Server",
+            SSIS,
+            SSRS,
+            Visio,
+            Wherescape,
+          ]
+  - Employer: FCCI
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Enterprise Information Architect
+        Date: Feb 2017 - Jan 2018
+        Details:
+          - Leadership of the creation of current and future state data architectures and implementation of interim architecture projects from start to delivery
+          - Developed IT Strategy that aligned technology enablers with business objectives
+          - Leadership of the proposal and socialization of a Data Governance program that included data quality, stewardship, and life-cycle management components.
+          - Conducted evaluation for the selection of a new API Management solution.
+          - Conducted evaluation for the selection of a new Data Integration layer and stood up implementation of canonical data model to support it.
+          - Managed IT Shared Services (HR, Finance, IT, Legal, Analytics) demand/capacity management across business domains
+          - Lead Architect for Peoplesoft HR + Financials
+          - Lead Architect for all data and analytics initiatives
+
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
     Place: Graz, AT
     Class: "experience__extra_padding"
     Positions:
@@ -57,7 +126,139 @@ Experience:
           - Viverra aliquet eget sit amet tellus cras adipiscing
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+  - Employer: ALFA Insurance
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
 
 Education:
   - Course: B Comp Sci
