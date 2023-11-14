@@ -20,14 +20,10 @@ Experience:
   - Employer: Port Wallis Technologies
     Place: Wilmington, NC
     Positions:
-      - Title: Director, Data and Technical Services
+      - Title: Principal
         Date: Dec 2022 - Nov 2023
         Details:
-          - Leadership of consultancy that provides 'big company capabilities to SMBs.'
-          - Sales, Marketing, Client, and Staff Management
-          - Cloud Migration and Data Integration
-          - Fractional CxO services
-
+          - Solo consultancy that provides 'big company capabilities to SMBs.'
         Badges:
           [
             "Archi",
@@ -50,9 +46,13 @@ Experience:
             "Talend Open Studio",
             "Visual Cobol",
             Visio,
+            Project Management,
+            Data Architecture,
+            Data Modeling,
+            Client Management,
           ]
   - Employer: X by 2, LLC
-    Place: Famrington Hills, MI
+    Place: Farmington Hills, MI
     Positions:
       - Title: Enterprise Data Architect, Project Manager
         Date: Jan 2018 - Dec 2023
@@ -75,32 +75,36 @@ Experience:
             "AWS (EC2, S3)",
             Collibra,
             Confluence,
-            "Cloudera Data Platform",
+            Cloudera Data Platform,
             DB2,
-            "DuckCreek Policy Admin",
-            "ER/Studio",
+            DuckCreek Policy Admin,
+            ER/Studio,
             Excel,
-            "Guidewire ClaimCenter",
+            Guidewire ClaimCenter,
             Hive,
             Java,
             Jira,
             Kafka,
             MongoDB,
-            "MS Project",
+            MS Project,
             PowerBI,
             PowerPoint,
             Python,
             SAP,
             Spark,
-            "SQL Server",
+            SQL Server,
             SSIS,
             SSRS,
             Visio,
             Wherescape,
+            Data Architecture,
+            People Management,
+            Project Management,
+            Client Management,
+            Data Governance,
           ]
   - Employer: FCCI
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+    Place: Sarasota, FL
     Positions:
       - Title: Enterprise Information Architect
         Date: Feb 2017 - Jan 2018
@@ -114,151 +118,300 @@ Experience:
           - Lead Architect for Peoplesoft HR + Financials
           - Lead Architect for all data and analytics initiatives
 
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+        Badges:
+          [
+            Alfabet,
+            "AWS (EC2, S3)",
+            Confluence,
+            ER/Studio,
+            Excel,
+            Jira,
+            MS Project,
+            MongoDB,
+            Oracle,
+            Peoplesoft,
+            PowerPoint,
+            SQL Server,
+            Talend,
+            Visio,
+            WebMethods,
+            Enterprise Architecture,
+            Data Architecture,
+            Project Management,
+            Data Governance,
+          ]
   - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+    Place: Montgomery, AL
+
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Enterprise Architect
+        Date: Apr 2015 - Aug 2016
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Chair of IT Architectural Review Board
+          - Ownership of Application Portfolio Management initiative
+          - Ownership of Customer Information Architecture initiative
+          - Domain Architect for Enterprise Information Management
+          - Inception to delivery of new Data Architecture for the company
+          - Domain Architect for all Data and Analytics initiatives
+          - Domain Architect for Application Development
+          - Member of corporate Data Governance Board
+          - Architectural oversight for a full suite GuideWire – inception to delivery
+          - Created and realized a comprehensive Application Portfolio Management strategy.
+          - Created a comprehensive Customer Information Architecture consisting of Customer 360 view, Data Quality Improvement initiatives, and associated data access capabilities.
+          - Created budgetary level roadmap for realization of Customer Information Architecture
+          - Effective leadership of Architectural Governance prevented inappropriate technology acquisitions as well as gaining praise for streamlining the processes involved.
+          - Effective coordination with Director - Vendor Management led to streamlining the software acquisition process.
+          - Effective partnering with all major IT operating groups in the interest of eliminating knowledge silos.
+          - Effective partnering with Marketing, Vendor Management, Life Insurance, Product Development groups in the interest of eliminating knowledge silos.
+          - Acquired TOGAF certification in Enterprise Architecture
+          - Participation in building an Architecture capability for a very “old school” company from the ground up
+
+        Badges:
+          [
+            "AWS (EC2, S3)",
+            Excel,
+            ER/Studio,
+            Guidewire Insurance Suite,
+            MS Project,
+            Oracle,
+            PowerPoint,
+            SQL Server,
+            SSIS,
+            SSRS,
+            Teradata,
+            TOGAF,
+            Visio,
+            Data Architecture,
+            Data Governance,
+            Enterprise Architecture,
+            Project Management,
+          ]
+  - Employer: NY State Office of Mental Health
+    Place: Albany, NY
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Enterprise Data Architect
+        Date: Jan 2012 - Apr 2015
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Leadership of reporting, analytical, and data architecture for all BI/DW efforts from inception to delivery
+          - Definition and enforcement of standards, policies, processes, and procedures for BI/DW software development efforts
+          - Member of Architectural Review Board
+          - Vendor Management
+          - Leadership of cross-functional initiatives
+          - Position reported to Division Director, Enterprise Information Management with 7 direct reports including a mix of managers and senior line staff
+          - Reporting infrastructure modernization was $1,000,000 under budget
+          - Analytical architecture modernization saved over $250,000 in annual license fees with increased capability and no incremental up-front cost
+          - Designed and delivered systems to support a joint venture with the federal government is bringing in over $1,000,000 per quarter in new state revenue
+          - Managed ETL development team when manager resigned during a high-profile project
+          - Lead Architect for Oracle E-Suite ERP platform
+          - Designed and led development of Patient Care Historical Data Store incorporating 30 years data from 3 EHR systems for 3000 bed hospital system from inception to delivery
+        Badges:
+          [
+            "AWS (EC2, S3)",
+            Excel,
+            ER/Studio,
+            Java,
+            MS Project,
+            Oracle,
+            Oracle E-Suite,
+            OBIEE,
+            PowerPoint,
+            Python,
+            SAS,
+            SQL Server,
+            Visio,
+            Analytics,
+            Data Architecture,
+            Data Governance,
+            Data Management Leadership,
+            People Management,
+            Program Management,
+            Project Management,
+          ]
+  - Employer: Cummins
+    Place: Colummbus, IN
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Chief BI Architect
+        Date: June 2011 - Dec 2011
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Architect and lead for supporting all facets of the development (inception to delivery) of a worldwide reporting platform
+          - Leadership of architecture team responsible for supporting all facets of enterprise reporting and analytics
+          - Definition and enforcement of standards, policies, processes, and procedures for software development efforts related to data and reporting projects.
+          - Worldwide enterprise reporting infrastructure stood up in 6 months after having been stalled for over a year.
+          - Negotiated workable SLA with global vendor for support of enterprise reporting platform.
+          - Developed multi-year roadmap to migrate 20,000+ reports from over 100 applications to new reporting platform.
+          - Position reported to Director, Business Intelligence Center of Excellence with 5 direct reports – 2 onshore and 3 offshore.
+        Badges:
+          [
+            ER/Studio,
+            Excel,
+            MS Project,
+            Oracle,
+            OBIEE,
+            PowerPoint,
+            Python,
+            SQL Server,
+            Visio,
+            Program Management,
+            People Management, 
+            Data Architecture,
+            Analytics
+          ]
+  - Employer: Hughes Telematics
+    Place: Atlanta, GA
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Senior Analyst - Business Intelligence
+        Date: Oct 2010 – Apr 2011
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Leadership of team responsible for supporting BI and analytics at a VC funded startup
+          - Designed and developed processes to support client promotion with a value of over 25% of annual revenue.
+        Badges: [Excel, MS Project, Oracle, OBIEE, PowerPoint, Python, Visio, Data Architecture, Analytics]
+  - Employer: Valassis
+    Place: Windsor, CT
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Reporting and Dashboarding Manager
+        Date: Jan 2007 - Jul 2010
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Led team responsible for all reporting and analytics at $3 Billion direct marketing company
+          - Grew team from 2 to 12 members over 3 years
+          - Responsible from Data Architecture from inception to delivery and beyond
+          - Development of KPIs for Sales and Manufacturing segments
+          - Lead architect for data integration with Peoplesoft ERP
+          - Cost analysis that prevented incorrect expectation of $5,000,000 annual saving from contract language change
+        Badges:
+          [
+            ER/Studio,
+            Excel,
+            Java,
+            MS Project,
+            OBIEE,
+            Oracle,
+            PowerPoint,
+            Peoplesoft,
+            Python,
+            SQL Server,
+            Visio,
+            People Management,
+            Project Management,
+            Data Modeling,
+            Data Architecture
+          ]
+  - Employer: Oracle Canada
+    Place: Mississauga, ON
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Sr Principal Consultant - Business Intelligence
+        Date: Feb 2006 – Dec 2006
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Leading customer engagements for enterprise reporting and analytics
+          - Delivered long term reporting and analytics strategy roadmap for large ERP implementation.
+
+        Badges:
+          [
+            Excel,
+            MS Project,
+            Oracle,
+            OBIEE,
+            PowerPoint,
+            Visio,
+            Client Management,
+            Data Stategy,
+          ]
+  - Employer: Adelphia Communications
+    Place: Coudersport, PA
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Data Architect
+        Date: Sep 2005 – Feb 2006
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Worked under the auspices of a bankruptcy trustee
+          - Architecture of data warehouse that enabled valuation of the company as it went through the bankruptcy process by integrating information from over 30 billing systems
+        Badges: [Oracle, Excel, Erwin, Mentoring, Data Architecture]
+  - Employer: Medavie Blue Cross
+    Place: Dartmouth, NS
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: BI Analyst / Data Architect
+        Date: Jan 2002 – Sep 2005
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Mentoring of technical and non-technical staff in the appropriate use of data tools
+          - Design of data warehouse for a health insurance provider
+          - Design and development of ETL, analytical dashboards, and data entry mechanisms
+          - Design and development of rating engine for “quick quote” life insurance product
+        Badges:
+          [
+            C,
+            DB2,
+            Excel,
+            FoxPro,
+            IDMS,
+            JCL,
+            OBIEE,
+            Oracle,
+            PowerBuilder,
+            Data Architecture, Analytics
+          ]
+  - Employer: DMR Consulting
+    Place: Dartmouth, NS
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Technology Architect
+        Date: Apr 1996 – Jan 2002
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Mentoring of technical and non-technical clients in the appropriate use of data tools
+          - Project management for various large data projects, including one of the first TB-scale data integration projects in the country.
+          - Design of TB-scale integration platform for Canada’s equivalent of Social Security Administration
+        Badges: 
+          - C
+          - DB2
+          - Oracle
+          - SQL Server
+          - Data Architecture
+          - Project Management
+          - DBA
+          - Analytics
+          - Data Modeling
+  - Employer: Informatique Le Phare
+    Place: Alymer, QC
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Data Architect
+        Date: Apr 1995 – Apr 1996
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Solo consultancy working for various Canadian government departments on small data projects
+        Badges:
+          [C, DB2, FoxPro, Excel, Oracle, Client Management, Data Modeling]
+  - Employer: Nutat Technologies
+    Place: Ottawa, ON
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Software Development Manager
+        Date: Apr 1994 – Apr 1995
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
-  - Employer: ALFA Insurance
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Led efforts to respond to client RFQs and RFIs
+          - Managed the team responsible for developing commercial software for the auto parts industry
+        Badges:
+          [
+            C,
+            FoxPro,
+            SQL Server,
+            Oracle,
+            People Management,
+            Project Management,
+            Delivery Management,
+          ]
+  - Employer: Statistics Canada
+    Place: Ottawa, ON
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Software Developer
+        Date: May 1988 – Apr 1994
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+          - Oracle development DBA
+          - DB2 development DBA
+          - Development of data integration pipelines for reporting and analytics
+          - Development of library catalog system
+        Badges: [C, DB2, Oracle, SAS, IBM Mainframe, DBA, Data Integration]
+  - Employer: Bedford Institute of Oceanograpy
+    Place: Dartmouth, NS
+    Positions:
+      - Title: Scientific Programmer
+        Date: Sep 1986 - Sep 1987
+        Details:
+          - Modeling of ocean currents
+        Badges: [FORTRAN, Cray YMP]
 
 Education:
   - Course: B Comp Sci
@@ -277,38 +430,75 @@ Skills:
       - C#
       - Bash
       - MATLAB
-  - Family: Frameworks
+  - Family: ETL/ELT Tools
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Technical Skills
     Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
+      - API Design
+      - Data Analytics
+      - Data Architecture and Modeling
+      - Enterprise Architecture (TOGAF Certified)
+      - ERP Data Integration
+      - Master Data Management
+
+  - Family: Business Skills
+    Items:
+      - Data Management Leadership
+      - Data Governance
+      - Mentoring
+      - People Management
+      - Program Management
+      - Project Management
+
+  - Family: Reporting and Dashboarding Tools
+    Items:
+      - OBIEE
+      - Power BI
+
+  - Family: Data Modeling Tools
+    Items:
+      - ER/Studio
+      - Erwin
+      - SQL Developer
+  - Family: Data Management
+    Items:
+      - DB2
+      - Hadoop
+      - Hive
+      - MongoDB
+      - MySQL
+      - Oracle
+      - PostgreSQL
+      - SQL Server
   - Family: Misc
     Items:
-      - Adobe Tools
-      - LaTeX
+      - Confluence
+      - Excel
+      - Jira
+      - MS Project
+      - Visio
 
 Languages:
   - Name: English
     Level: Native
 
 Certifications:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - TOGAF (2017)
+  - ITIL Foundations (2001)
 
 Citizenship:
   - Canada
   - United States
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Electronics
+  - Experimental Music
+  - Entrepreneurship
