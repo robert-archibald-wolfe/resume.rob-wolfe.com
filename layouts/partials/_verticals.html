@@ -1,0 +1,14 @@
+{{ if .Verticals }}
+<div class="sideSection">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">Verticals</h2>
+    </div>
+    <div class="sideSection__content">
+        <ul>
+            {{ range collections.Sort .Verticals }}
+            <li>{{ . | safeHTML }}</li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}

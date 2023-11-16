@@ -2,7 +2,7 @@ baseURL = 'https://resume.rob-wolfe.com'
 languageCode = 'en-us'
 title = 'Rob Wolfe Resume - Long Version'
 theme = 'almeida-cv'
-publishDir = "c:/websites/resume.portwallistechnologies.com"
+publishDir = "c:/websites/resume.rob-wolfe.com"
 [params]
 pages = 5
 
