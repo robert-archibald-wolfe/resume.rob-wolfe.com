@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "source-resume.rob-wolfe.com",
+			"path": "."
+		},
+		{
+			"name": "resume.rob-wolfe.com",
+			"path": "../../websites/resume.rob-wolfe.com"
+		}
+	],
+	"settings": {}
+}
