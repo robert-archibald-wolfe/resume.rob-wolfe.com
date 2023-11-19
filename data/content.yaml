@@ -9,10 +9,8 @@ BasicInfo:
       Info: +1 334 531 9957
     - Icon: fas fa-envelope
       Info: rwolfe@portwallistechnologies.com
-    - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://resume.rob-wolfe.com" target="_blank">This Resume</a>
     - Icon: fas fa-map-marker-alt
-      Info: North Carolina
+      Info: Wilmington, North Carolina
 
 Profile: 35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence and Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.
 
@@ -21,7 +19,7 @@ Experience:
     Place: Farmington Hills, MI
     Positions:
       - Title: Enterprise Data Architect, Project Manager
-        Date: Jan 2018 - Dec 2023
+        Date: Jan 2018 - Dec 2022
         Details:
           - Leadership of overall architecture and execution from start to delivery and beyond of a project to add data lake capabilities to existing data warehousing infrastructure
           - Leadership of efforts to standardize development and QA methods and processes of 60+ person team providing data management services to analytics and operational business segments
