@@ -1,5 +1,29 @@
 # @format
-
+skillFamily:
+  - name: Business Skills
+    code: business
+    sortOrder: 1
+  - name: Technical Skills
+    sortOrder: 2
+    code: technical
+  - name: Data Management
+    code: datamanagement
+    sortOrder: 3
+  - name: Project Management
+    code: projectmanagement
+    sortOrder: 4
+  - name: Data Modeling
+    code: datamodeling
+    sortOrder: 5
+  - name: ELT/ETL Tools
+    code: etl
+    sortOrder: 6
+  - name: Programming
+    code: programming
+    sortOrder: 7
+  - name: Reporting & Dashboarding
+    code: reporting
+    sortOrder: 8
 BasicInfo:
   FirstName: Rob
   LastName: Wolfe
@@ -12,7 +36,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Wilmington, North Carolina
 
-Profile: 35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence and Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.
+Profile: 35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.
 
 Experience:
   - Employer: X by 2, LLC
@@ -22,7 +46,7 @@ Experience:
         Date: Jan 2018 - Dec 2022
         Details:
           - Leadership of overall architecture and execution from start to delivery and beyond of a project to add data lake capabilities to existing data warehousing infrastructure
-          - Leadership of efforts to standardize development and QA methods and processes of 60+ person team providing data management services to analytics and operational business segments
+          - Leadership of efforts to standardize development and QA methods for a 60+ person team providing data management services to analytics and operational business segments
           - Leadership of technical effort to ensure that data assets followed the California Consumer Privacy Act
           - Leadership of efforts to roll out a Data Governance function within the company
           - Lead Architect for data integration with SAP ERP application
@@ -35,38 +59,39 @@ Experience:
           - DQ+ Primary Architect
           - Primary Client - P&C Insurance Carrier
         Badges:
-          [
-            "AWS (EC2, S3)",
-            Collibra,
-            Confluence,
-            Cloudera Data Platform,
-            DB2,
-            DuckCreek Policy Admin,
-            ER/Studio,
-            Excel,
-            Guidewire ClaimCenter,
-            Hive,
-            Java,
-            Jira,
-            Kafka,
-            MongoDB,
-            MS Project,
-            PowerBI,
-            PowerPoint,
-            Python,
-            SAP,
-            Spark,
-            SQL Server,
-            SSIS,
-            SSRS,
-            Visio,
-            Wherescape,
-            Data Architecture,
-            People Management,
-            Project Management,
-            Client Management,
-            Data Governance,
-          ]
+          - item: "AWS (EC2, S3)"
+            category: technical
+          - item: Collibra
+            category: datamanagement
+          - item: Confluence
+            category: 
+          - item: Cloudera Data Platform
+          - item: DB2
+          - item: DuckCreek Policy Admin
+          - item: ER/Studio
+          - item: Excel
+          - item: Guidewire ClaimCenter
+          - item: Hive
+          - item: Java
+          - item: Jira
+          - item: Kafka
+          - item: MongoDB
+          - item: MS Project
+          - item: PowerBI
+          - item: PowerPoint
+          - item: Python
+          - item: SAP
+          - item: Spark
+          - item: SQL Server
+          - item: SSIS
+          - item: SSRS
+          - item: Visio
+          - item: Wherescape
+          - item: Data Architecture
+          - item: People Management
+          - item: Project Management
+          - item: Client Management
+          - item: Data Governance
   - Employer: FCCI
     Place: Sarasota, FL
     Positions:
@@ -83,27 +108,25 @@ Experience:
           - Lead Architect for all data and analytics initiatives
 
         Badges:
-          [
-            Alfabet,
-            "AWS (EC2, S3)",
-            Confluence,
-            ER/Studio,
-            Excel,
-            Jira,
-            MS Project,
-            MongoDB,
-            Oracle,
-            Peoplesoft,
-            PowerPoint,
-            SQL Server,
-            Talend,
-            Visio,
-            WebMethods,
-            Enterprise Architecture,
-            Data Architecture,
-            Project Management,
-            Data Governance,
-          ]
+          - item: Alfabet
+          - item: "AWS (EC2, S3)"
+          - item: Confluence
+          - item: ER/Studio
+          - item: Excel
+          - item: Jira
+          - item: MS Project
+          - item: MongoDB
+          - item: Oracle
+          - item: Peoplesoft
+          - item: PowerPoint
+          - item: SQL Server
+          - item: Talend
+          - item: Visio
+          - item: WebMethods
+          - item: Enterprise Architecture
+          - item: Data Architecture
+          - item: Project Management
+          - item: Data Governance
   - Employer: ALFA Insurance
     Place: Montgomery, AL
 
@@ -116,7 +139,7 @@ Experience:
           - Ownership of Customer Information Architecture initiative
           - Domain Architect for Enterprise Information Management
           - Inception to delivery of new Data Architecture for the company
-          - Domain Architect for all Data and Analytics initiatives
+          - Domain Architect for all Data & Analytics initiatives
           - Domain Architect for Application Development
           - Member of corporate Data Governance Board
           - Architectural oversight for a full suite GuideWire – inception to delivery
@@ -131,25 +154,23 @@ Experience:
           - Participation in building an Architecture capability for a very “old school” company from the ground up
 
         Badges:
-          [
-            "AWS (EC2, S3)",
-            Excel,
-            ER/Studio,
-            Guidewire Insurance Suite,
-            MS Project,
-            Oracle,
-            PowerPoint,
-            SQL Server,
-            SSIS,
-            SSRS,
-            Teradata,
-            TOGAF,
-            Visio,
-            Data Architecture,
-            Data Governance,
-            Enterprise Architecture,
-            Project Management,
-          ]
+          - item: AWS (EC2, S3)
+          - item: Excel
+          - item: ER/Studio
+          - item: Guidewire Insurance Suite
+          - item: MS Project
+          - item: Oracle
+          - item: PowerPoint
+          - item: SQL Server
+          - item: SSIS
+          - item: SSRS
+          - item: Teradata
+          - item: TOGAF
+          - item: Visio
+          - item: Data Architecture
+          - item: Data Governance
+          - item: Enterprise Architecture
+          - item: Project Management
   - Employer: NY State Office of Mental Health
     Place: Albany, NY
     Positions:
@@ -169,28 +190,26 @@ Experience:
           - Lead Architect for Oracle E-Suite ERP platform
           - Designed and led development of Patient Care Historical Data Store incorporating 30 years data from 3 EHR systems for 3000 bed hospital system from inception to delivery
         Badges:
-          [
-            "AWS (EC2, S3)",
-            Excel,
-            ER/Studio,
-            Java,
-            MS Project,
-            Oracle,
-            Oracle E-Suite,
-            OBIEE,
-            PowerPoint,
-            Python,
-            SAS,
-            SQL Server,
-            Visio,
-            Analytics,
-            Data Architecture,
-            Data Governance,
-            Data Management Leadership,
-            People Management,
-            Program Management,
-            Project Management,
-          ]
+          - item: "AWS (EC2, S3)"
+          - item: Excel
+          - item: ER/Studio
+          - item: Java
+          - item: MS Project
+          - item: Oracle
+          - item: Oracle E-Suite
+          - item: OBIEE
+          - item: PowerPoint
+          - item: Python
+          - item: SAS
+          - item: SQL Server
+          - item: Visio
+          - item: Analytics
+          - item: Data Architecture
+          - item: Data Governance
+          - item: Data Management Leadership
+          - item: People Management
+          - item: Program Management
+          - item: Project Management
   - Employer: Cummins
     Place: Columbus, IN
     Positions:
@@ -205,90 +224,82 @@ Experience:
           - Developed multi-year roadmap to migrate 20,000+ reports from over 100 applications to new reporting platform
           - Position reported to Director, Business Intelligence Center of Excellence with 5 direct reports – 2 onshore and 3 offshore
         Badges:
-          [
-            ER/Studio,
-            Excel,
-            MS Project,
-            Oracle,
-            OBIEE,
-            PowerPoint,
-            Python,
-            SQL Server,
-            Visio,
-            Program Management,
-            People Management,
-            Data Architecture,
-            Analytics,
-          ]
+          - item: ER/Studio
+          - item: Excel
+          - item: MS Project
+          - item: Oracle
+          - item: OBIEE
+          - item: PowerPoint
+          - item: Python
+          - item: SQL Server
+          - item: Visio
+          - item: Program Management
+          - item: People Management
+          - item: Data Architecture
+          - item: Analytics
   - Employer: Hughes Telematics
     Place: Atlanta, GA
     Positions:
       - Title: Senior BI Analyst
         Date: Oct 2010 – Apr 2011
         Details:
-          - Leadership of team responsible for supporting BI and analytics at a VC funded startup
+          - Leadership of team responsible for supporting BI & Analytics at a VC funded startup
           - Designed and developed processes to support client promotion with a value of over 25% of annual revenue
         Badges:
-          [
-            Excel,
-            MS Project,
-            Oracle,
-            OBIEE,
-            PowerPoint,
-            Python,
-            Visio,
-            Data Architecture,
-            Analytics,
-          ]
+          - item: Excel
+          - item: MS Project
+          - item: Oracle
+          - item: OBIEE
+          - item: PowerPoint
+          - item: Python
+          - item: Visio
+          - item: Data Architecture
+          - item: Analytics
   - Employer: Valassis
     Place: Windsor, CT
     Positions:
-      - Title: Reporting and Dashboarding Manager
+      - Title: Reporting & Dashboarding Manager
         Date: Jan 2007 - Jul 2010
         Details:
-          - Led team responsible for all reporting and analytics at $3 Billion direct marketing company
+          - Led team responsible for all Reporting & Analytics at $3 Billion direct marketing company
           - Grew team from 2 to 12 members over 3 years
           - Responsible from Data Architecture from inception to delivery and beyond
-          - Development of KPIs for Sales and Manufacturing segments
+          - Development of KPIs for Sales & Manufacturing segments
           - Lead architect for data integration with Peoplesoft ERP
           - Cost analysis that prevented incorrect expectation of $5,000,000 annual saving from contract language change
         Badges:
-          [
-            ER/Studio,
-            Excel,
-            Java,
-            MS Project,
-            OBIEE,
-            Oracle,
-            PowerPoint,
-            Peoplesoft,
-            Python,
-            SQL Server,
-            Visio,
-            People Management,
-            Project Management,
-            Data Modeling,
-            Data Architecture,
-          ]
+          - item: ER/Studio
+          - item: Excel
+          - item: Java
+          - item: MS Project
+          - item: OBIEE
+          - item: Oracle
+          - item: PowerPoint
+          - item: Peoplesoft
+          - item: Python
+          - item: SQL Server
+          - item: Visio
+          - item: People Management
+          - item: Project Management
+          - item: Data Modeling
+          - item: Data Architecture
   - Employer: Oracle Canada
     Place: Mississauga, ON
     Positions:
       - Title: Sr Principal Consultant - BI
         Date: Feb 2006 – Dec 2006
         Details:
-          - Leading customer engagements for enterprise reporting and analytics
-          - Delivered long term reporting and analytics strategy roadmap for large ERP implementation
+          - Leading customer engagements for Enterprise Reporting & Analytics
+          - Delivered long term Reporting & Analytics strategy roadmap for large ERP implementation
         Badges:
-          [
-            Excel,
-            MS Project,
-            Oracle,
-            OBIEE,
-            PowerPoint,
-            Visio,
-            Client Management,
-            Data Stategy,
-          ]
+          - item: Excel
+          - item: MS Project
+          - item: Oracle
+          - item: OBIEE
+          - item: PowerPoint
+          - item: Visio
+          - item: Client Management
+          - item: Data Stategy
   - Employer: Adelphia Communications
     Place: Coudersport, PA
     Positions:
@@ -297,7 +308,12 @@ Experience:
         Details:
           - Worked under the auspices of a bankruptcy trustee
           - Architecture of data warehouse that enabled valuation of the company as it went through the bankruptcy process by integrating information from over 30 billing systems
-        Badges: [Oracle, Excel, Erwin, Mentoring, Data Architecture]
+        Badges:
+          - item: Oracle
+          - item: Excel
+          - item: Erwin
+          - item: Mentoring
+          - item: Data Architecture
   - Employer: Medavie Blue Cross
     Place: Dartmouth, NS
     Positions:
@@ -309,19 +325,17 @@ Experience:
           - Design and development of ETL, analytical dashboards, and data entry mechanisms
           - Design and development of rating engine for “quick quote” life insurance product
         Badges:
-          [
-            C,
-            DB2,
-            Excel,
-            FoxPro,
-            IDMS,
-            JCL,
-            OBIEE,
-            Oracle,
-            PowerBuilder,
-            Data Architecture,
-            Analytics,
-          ]
+          - item: C
+          - item: DB2
+          - item: Excel
+          - item: FoxPro
+          - item: IDMS
+          - item: JCL
+          - item: OBIEE
+          - item: Oracle
+          - item: PowerBuilder
+          - item: Data Architecture
+          - item: Analytics
   - Employer: DMR Consulting
     Place: Dartmouth, NS
     Positions:
@@ -332,15 +346,15 @@ Experience:
           - Project management for various large data projects, including one of the first TB-scale data integration projects in the country
           - Design of TB-scale integration platform for Canada’s equivalent of Social Security Administration
         Badges:
-          - C
-          - DB2
-          - Oracle
-          - SQL Server
-          - Data Architecture
-          - Project Management
-          - DBA
-          - Analytics
-          - Data Modeling
+          - item: C
+          - item: DB2
+          - item: Oracle
+          - item: SQL Server
+          - item: Data Architecture
+          - item: Project Management
+          - item: DBA
+          - item: Analytics
+          - item: Data Modeling
   - Employer: Informatique Le Phare
     Place: Alymer, QC
     Positions:
@@ -349,7 +363,13 @@ Experience:
         Details:
           - Solo consultancy working for various Canadian government departments on small data projects
         Badges:
-          [C, DB2, FoxPro, Excel, Oracle, Client Management, Data Modeling]
+          - item: C
+          - item: DB2
+          - item: FoxPro
+          - item: Excel
+          - item: Oracle
+          - item: Client Management
+          - item: Data Modeling
   - Employer: Nutat Technologies
     Place: Ottawa, ON
     Positions:
@@ -359,15 +379,13 @@ Experience:
           - Led efforts to respond to client RFQs and RFIs
           - Managed the team responsible for developing commercial software for the auto parts industry
         Badges:
-          [
-            C,
-            FoxPro,
-            SQL Server,
-            Oracle,
-            People Management,
-            Project Management,
-            Delivery Management,
-          ]
+          - item: C
+          - item: FoxPro
+          - item: SQL Server
+          - item: Oracle
+          - item: People Management
+          - item: Project Management
+          - item: Delivery Management
   - Employer: Statistics Canada
     Place: Ottawa, ON
     Positions:
@@ -376,18 +394,16 @@ Experience:
         Details:
           - Oracle development DBA
           - DB2 development DBA
-          - Development of data integration pipelines for reporting and analytics
+          - Development of data integration pipelines for Reporting & Analytics
           - Development of library catalog system
-        Badges: [C, DB2, Oracle, SAS, IBM Mainframe, DBA, Data Integration]
-  - Employer: Bedford Institute of Oceanograpy
-    Place: Dartmouth, NS
-    Positions:
-      - Title: Scientific Programmer
-        Date: Sep 1986 - Sep 1987
-        Details:
-          - Modeling of ocean currents
-        Badges: [FORTRAN, Cray YMP]
-
+        Badges:
+          - item: C
+          - item: DB2
+          - item: Oracle
+          - item: SAS
+          - item: IBM Mainframe
+          - item: DBA
+          - item: Data Integration
 Education:
   - Course: B Comp Sci
     Place: Acadia University
@@ -395,7 +411,7 @@ Education:
 
 Skills:
   - Family: Business Skills
-    SortOrder: 0
+    SortOrder: 1
     Items:
       - Data Management Leadership
       - Data Governance
@@ -404,44 +420,23 @@ Skills:
       - Program Management
       - Project Management
   - Family: Technical Skills
-    SortOrder: 0
+    SortOrder: 2
     Items:
       - API Design
       - Data Analytics
-      - Data Architecture and Modeling
+      - Data Architecture & Modeling
       - Enterprise Architecture (TOGAF Certified)
       - ERP Data Integration
       - Master Data Management
-  - Family: Programming
-    SortOrder: 1
+  - Family: Project Management
+    SortOrder: 3
     Items:
-      - C
-      - Java
-      - JavaScript
-      - PL/SQL
-      - Python
-      - SQL
-      - T-SQL
-  - Family: ETL/ELT Tools
-    SortOrder: 1
-    Items:
-      - Informatica
-      - ODI
-      - Talend Open Studio
-      - Wherescape
-  - Family: Reporting and Dashboarding Tools
-    SortOrder: 1
-    Items:
-      - OBIEE
-      - Power BI
-  - Family: Data Modeling Tools
-    SortOrder: 1
-    Items:
-      - ER/Studio
-      - Erwin
-      - SQL Developer
+      - Confluence
+      - Excel
+      - Jira
+      - MS Project
   - Family: Data Management
-    SortOrder: 1
+    SortOrder: 4
     Items:
       - DB2
       - Hadoop
@@ -451,14 +446,34 @@ Skills:
       - Oracle
       - PostgreSQL
       - SQL Server
-  - Family: Misc
-    SortOrder: 2
+  - Family: ETL/ELT Tools
+    SortOrder: 5
     Items:
-      - Confluence
-      - Excel
-      - Jira
-      - MS Project
-      - Visio
+      - Informatica
+      - ODI
+      - Talend Open Studio
+      - Wherescape
+  - Family: Reporting & Dashboarding Tools
+    SortOrder: 6
+    Items:
+      - OBIEE
+      - Power BI
+  - Family: Data Modeling
+    SortOrder: 7
+    Items:
+      - ER/Studio
+      - Erwin
+      - SQL Developer
+  - Family: Programming
+    SortOrder: 8
+    Items:
+      - C
+      - Java
+      - JavaScript
+      - PL/SQL
+      - Python
+      - SQL
+      - T-SQL
 Verticals:
   - Insurance (P&C)
   - Healthcare

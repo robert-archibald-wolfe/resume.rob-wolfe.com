@@ -32,8 +32,8 @@
                     </ul>
                     <div class="experience__badges">
                         <ul>
-                            {{ range collections.Sort .Badges }}
-                            <li class="experience__badge">{{ . }}</li>
+                            {{ range collections.Sort .Badges "item" }}
+                            <li class="experience__badge">{{ .item }}</li>
                             {{ end }}
                         </ul>
                     </div>
