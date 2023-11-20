@@ -35,9 +35,7 @@ BasicInfo:
       Info: rwolfe@portwallistechnologies.com
     - Icon: fas fa-map-marker-alt
       Info: Wilmington, North Carolina
-
 Profile: 35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.
-
 Experience:
   - Employer: X by 2, LLC
     Place: Farmington Hills, MI
@@ -60,11 +58,11 @@ Experience:
           - Primary Client - P&C Insurance Carrier
         Badges:
           - item: "AWS (EC2, S3)"
-            category: technical
+            family: technical
           - item: Collibra
-            category: datamanagement
+            family: datamanagement
           - item: Confluence
-            category: 
+            family: projectmanagement
           - item: Cloudera Data Platform
           - item: DB2
           - item: DuckCreek Policy Admin
@@ -106,7 +104,6 @@ Experience:
           - Managed IT Shared Services (HR, Finance, IT, Legal, Analytics) demand/capacity management across business domains
           - Lead Architect for Peoplesoft HR + Financials
           - Lead Architect for all data and analytics initiatives
-
         Badges:
           - item: Alfabet
           - item: "AWS (EC2, S3)"
@@ -129,7 +126,6 @@ Experience:
           - item: Data Governance
   - Employer: ALFA Insurance
     Place: Montgomery, AL
-
     Positions:
       - Title: Enterprise Architect
         Date: Apr 2015 - Aug 2016
@@ -152,7 +148,6 @@ Experience:
           - Effective partnering with Marketing, Vendor Management, Life Insurance, Product Development groups in the interest of eliminating knowledge silos
           - Acquired TOGAF certification in Enterprise Architecture
           - Participation in building an Architecture capability for a very “old school” company from the ground up
-
         Badges:
           - item: AWS (EC2, S3)
           - item: Excel
@@ -408,7 +403,6 @@ Education:
   - Course: B Comp Sci
     Place: Acadia University
     Date: May 1988
-
 Skills:
   - Family: Business Skills
     SortOrder: 1
@@ -478,15 +472,12 @@ Verticals:
   - Insurance (P&C)
   - Healthcare
   - Government
-  -
 Languages:
   - Name: English
     Level: Native
-
 Certifications:
   - TOGAF (2017)
   - ITIL Foundations (2001)
-
 Citizenship:
   - Canada
   - United States
