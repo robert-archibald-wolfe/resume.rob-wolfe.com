@@ -1,0 +1,9 @@
+baseURL = 'https://resume.rob-wolfe.com'
+languageCode = 'en-us'
+title = 'Rob Wolfe - Resume'
+theme = 'almeida-cv'
+publishDir = "c:/websites/dm-resume.rob-wolfe.com"
+dataDir = "data-dm"
+[params]
+pages = 3
+
