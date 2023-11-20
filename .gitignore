@@ -1,3 +1,4 @@
-_gen
+resources
 *.code-workspace
 *.lock
+.venv
