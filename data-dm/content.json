@@ -21,13 +21,43 @@
       { "Icon": "fas fa-phone", "Info": "+1 334 531 9957" },
       {
         "Icon": "fas fa-envelope",
-        "Info": "rwolfe@portwallistechnologies.com"
+        "Info": "rob@rob-wolfe.com"
       },
-      { "Icon": "fas fa-map-marker-alt", "Info": "Wilmington, North Carolina" }
+      {
+        "Icon": "fas fa-map-marker-alt",
+        "Info": "Castle Hayne, North Carolina"
+      }
     ]
   },
-  "Profile": "35+ years of experience building solutions for enterprise data and application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. Player/coach model is my specialty.",
+  "Profile": "A wealth of experience building solutions for Enterprise Data and Application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. Have found that retirement doesn’t suit me and I am looking for a technical or organizational challenge. Player/coach model is my specialty but am open to IC roles as well.",
   "Experience": [
+    {
+      "Employer": "Self",
+      "Place": "Castle Hayne, NC",
+      "Positions": [
+        {
+          "Title": "Retired",
+          "Date": "Dec 2022 - Present",
+
+          "Details": ["Retired too early. Looking for a new challenge."],
+          "Badges": []
+        }
+      ]
+    },
+    {
+      "Employer": "Pender County School Board",
+      "Place": "Burgaw, NC",
+      "Positions": [
+        {
+          "Title": "Substitute Teacher",
+          "Date": "Dec 2022 - Present",
+          "Details": [
+            "Short and long term substitute teacher for middle and high school"
+          ],
+          "Badges": []
+        }
+      ]
+    },
     {
       "Employer": "X by 2, LLC",
       "Place": "Farmington Hills, MI",
@@ -36,8 +66,8 @@
           "Title": "Enterprise Data Architect, Project Manager",
           "Date": "Jan 2018 - Dec 2022",
           "Details": [
-            "Successful leadership of overall architecture and execution from start to delivery and beyond of a project to add data lake capabilities to existing data warehousing infrastructure",
-            "Successful leadership of implementation teams for various M&A related data projects, all of which went to production",
+            "Successful hands-on leadership of overall architecture and execution from start to delivery and beyond of a project to add data lake capabilities to existing data warehousing infrastructure",
+            "Successful hands-on leadership of implementation teams for various M&A related data projects, all of which went to production",
             "Member of Core management team for 150+ person project",
             "Primary Client - P&C Insurance Carrier"
           ],
@@ -202,7 +232,8 @@
             "Oversaw an effort to implement Worldwide enterprise reporting infrastructure which was stood up in 6 months after having been stalled for over a year",
             "Negotiated workable SLA with global vendor for support of enterprise reporting platform",
             "Developed multi-year roadmap to migrate 20,000+ reports from over 100 applications to new reporting platform",
-            "Led 5 person architecture team responsible for supporting all facets of enterprise reporting and analytics"          ],
+            "Led 5 person architecture team responsible for supporting all facets of enterprise reporting and analytics"
+          ],
           "Badges": [
             { "item": "ER/Studio" },
             { "item": "Excel" },
@@ -304,7 +335,7 @@
         }
       ]
     },
-        {
+    {
       "Employer": "Nutat Technologies",
       "Place": "Ottawa, ON",
       "Positions": [
@@ -329,7 +360,16 @@
     }
   ],
   "Education": [
-    { "Course": "B Comp Sci", "Place": "Acadia University", "Date": "May 1988" }
+    {
+      "Course": "B Comp Sci",
+      "Place": "Acadia University",
+      "Date": "May 1988"
+    },
+    {
+      "Course": "Master of Arts, Teaching -- Middle School Mathematics",
+      "Place": "Western Governor's University",
+      "Date": "January 2026"
+    }
   ],
   "Skills": [
     {
