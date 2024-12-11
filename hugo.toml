@@ -1,6 +1,6 @@
 baseURL = 'https://resume.rob-wolfe.com'
 languageCode = 'en-us'
-title = 'Rob Wolfe - Resume'
+title = 'Rob Wolfe - Resume - Call Me - 334-531-9957 - Hire Me - hire.me@rob-wolfe.com'
 theme = 'almeida-cv'
 publishDir = "c:/websites/resume.rob-wolfe.com"
 [params]

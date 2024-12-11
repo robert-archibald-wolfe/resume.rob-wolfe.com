@@ -21,7 +21,7 @@
       { "Icon": "fas fa-phone", "Info": "+1 334 531 9957" },
       {
         "Icon": "fas fa-envelope",
-        "Info": "rob@rob-wolfe.com"
+        "Info": "hire.me@rob-wolfe.com"
       },
       {
         "Icon": "fas fa-map-marker-alt",
@@ -29,7 +29,7 @@
       }
     ]
   },
-  "Profile": "A wealth of experience building solutions for Enterprise Data and Application initiatives. Establishing, recruiting, and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. Have found that retirement doesn’t suit me and I am looking for a technical or organizational challenge. Player/coach model is my specialty but am open to IC roles as well.",
+  "Profile": "Experienced in building solutions for Enterprise Data and Application initiatives and skilled in recruiting and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. I retired too early and now seek a technical or organizational challenge. I specialize in the player/coach leadership model and am open to leadership or IC roles.",
   "Experience": [
     {
       "Employer": "Self",
@@ -37,7 +37,7 @@
       "Positions": [
         {
           "Title": "Retired",
-          "Date": "Dec 2022 - Present",
+          "Date": "Jan 2023 - Present",
 
           "Details": ["Retired too early. Looking for a new challenge."],
           "Badges": []
@@ -52,9 +52,9 @@
           "Title": "Substitute Teacher",
           "Date": "Dec 2022 - Present",
           "Details": [
-            "Short and long term substitute teacher for middle and high school"
+            "Short and long term substitute teacher for elementary, middle, and high school"
           ],
-          "Badges": []
+          "Badges": [{"item":"Teaching"}]
         }
       ]
     },
@@ -112,10 +112,10 @@
           "Title": "Enterprise Information Architect",
           "Date": "Feb 2017 - Jan 2018",
           "Details": [
-            "Created current and future state data architectures and roadmap for implementation of interim architecture projects from start to delivery",
-            "Developed IT Strategy that aligned technology enablers with business objectives",
-            "Leadership of the socialization of a Data Governance program that included data quality, stewardship, and life-cycle management components",
-            "Managed IT Shared Services (HR, Finance, IT, Legal, Analytics) demand/capacity management across business domains"
+            "Created current and future state data architectures for a billion-dollar insurance company",
+            "Developed IT Strategy aligning technology with business objectives",
+            "Led the development and socialization of a Data Governance program",
+            "Managed IT Shared Services (HR, Finance, IT, Legal, Analytics) demand and capacity management"
           ],
           "Badges": [
             { "item": "Alfabet" },
@@ -354,6 +354,28 @@
             { "item": "People Management" },
             { "item": "Project Management" },
             { "item": "Delivery Management" }
+          ]
+        }
+      ]
+
+    },
+    {
+      "Employer": "Statistics Canada",
+      "Place": "Ottawa, ON",
+      "Positions": [
+        {
+          "Title": "Financial Reporting Programmer/Analyst",
+          "Date": "May 1988 – Apr 1994",
+          "Details": [
+            "Developed data integration pipelines and library catalog system."
+          ],
+          "Badges": [
+            { "item": "C" },
+            { "item": "FoxPro" },
+            { "item": "Oracle" },
+            { "item": "Data Architecture" },
+            { "item": "Data Modeling" }
+            
           ]
         }
       ]
