@@ -32,7 +32,22 @@
   "Profile": "Experienced in building solutions for Enterprise Data and Application initiatives and skilled in recruiting and leading teams for Master Data Management, Data Warehousing, Data Governance, Business Intelligence & Analytics, Data Engineering, and Enterprise Architecture. I retired too early and now seek a technical or organizational challenge. I specialize in the player/coach leadership model and am open to leadership or IC roles.",
   "Experience": [
     {
-      "Employer": "Self",
+      "Employer": "Pender County School Board",
+      "Place": "Burgaw, NC",
+      "Country": "US",
+    
+      "Positions": [
+        {
+          "Title": "Substitute Teacher",
+          "Date": "Jan 2024 - Present",
+          "Details": [
+            "Short and long term substitute teacher for elementary, middle, and high school"
+          ],
+          "Badges": [{"item":"Teaching"}]
+        }
+      ]
+    },{
+      "Employer": "Retired",
       "Place": "Castle Hayne, NC","Country": "US",
     
       "Positions": [
@@ -45,22 +60,7 @@
         }
       ]
     },
-    {
-      "Employer": "Pender County School Board",
-      "Place": "Burgaw, NC",
-      "Country": "US",
     
-      "Positions": [
-        {
-          "Title": "Substitute Teacher",
-          "Date": "Dec 2022 - Present",
-          "Details": [
-            "Short and long term substitute teacher for elementary, middle, and high school"
-          ],
-          "Badges": [{"item":"Teaching"}]
-        }
-      ]
-    },
     {
       "Employer": "X by 2, LLC",
       "Place": "Farmington Hills, MI",
